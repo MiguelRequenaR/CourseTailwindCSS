@@ -1,11 +1,12 @@
-import Header from "./components/Card"
-
+// import Card from "./components/Card";
+import Grid from "./components/Grid";
 
 function App() {
 
   return (
     <div>
-        <Header/>
+        {/* <Card/> */}
+        <Grid/>
     </div>
   )
 }

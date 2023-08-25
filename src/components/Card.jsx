@@ -3,7 +3,7 @@ import image from '../assets/atardecer.webp';
 const Card = ()=>{
     return(
         <div className="flex justify-center items-center h-screen">
-            <div className="max-w-sm rounded overflow-hidden shadow-lg">
+            <div className="max-w-sm rounded-lg overflow-hidden shadow-lg">
                     <img className='w-full' src={image} alt="" />
                 <div className='px-6 py-4'>
                     <h1 className='font-bold text-3xl text-gray-500 pb-3'>The Coldest Sunset</h1>
