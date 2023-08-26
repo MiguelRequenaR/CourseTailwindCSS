@@ -1,7 +1,9 @@
 // import Card from "./components/Card";
 // import Grid from "./components/Grid";
+// import Flexbox from "./components/Flexbox"
+// import NavBar from "./components/NavBar"
 
-import Flexbox from "./components/Flexbox"
+import Dashboard from "./pages/Dashboard"
 
 function App() {
 
@@ -9,7 +11,9 @@ function App() {
     <div>
         {/* <Card/> */}
         {/* <Grid/> */}
-        <Flexbox/>
+        {/* <Flexbox/> */}
+        {/* <NavBar/> */}
+        <Dashboard/>
     </div>
   )
 }
