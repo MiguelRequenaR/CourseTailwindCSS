@@ -2,8 +2,9 @@
 // import Grid from "./components/Grid";
 // import Flexbox from "./components/Flexbox"
 // import NavBar from "./components/NavBar"
+// import Dashboard from "./pages/Dashboard"
 
-import Dashboard from "./pages/Dashboard"
+import Projects from "./components/Projects"
 
 function App() {
 
@@ -13,7 +14,8 @@ function App() {
         {/* <Grid/> */}
         {/* <Flexbox/> */}
         {/* <NavBar/> */}
-        <Dashboard/>
+        {/* <Dashboard/> */}
+        <Projects/>
     </div>
   )
 }
