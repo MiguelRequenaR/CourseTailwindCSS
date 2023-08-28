@@ -4,7 +4,9 @@
 // import NavBar from "./components/NavBar"
 // import Dashboard from "./pages/Dashboard"
 
-import Projects from "./components/Projects"
+import Login from "./components/Login"
+
+// import Projects from "./components/Projects"
 
 function App() {
 
@@ -15,7 +17,8 @@ function App() {
         {/* <Flexbox/> */}
         {/* <NavBar/> */}
         {/* <Dashboard/> */}
-        <Projects/>
+        {/* <Projects/> */}
+        <Login/>
     </div>
   )
 }
